@@ -50,6 +50,18 @@ def write_multiple_items(file,separator,*args):
 def concat(*arg,sep='/'):
     return sep.join(arg)
 
+# lambda expression
+def make_increment(n):
+    return lambda x : x + n
+
+#document
+def my_function():
+    """
+    Do nothing, but document it ...
+    No, Really, it doesn't do anthing...
+    """
+    pass
+
 if __name__ == '__main__':
     print(concat('dsa','|'))
     #function sample
@@ -84,6 +96,15 @@ if __name__ == '__main__':
            client="John Cleese",
            sketch="Cheese Shop Sketch")
 
+    # list(range())
+    print(list(range(3,6)))
+
+    #lambda expression
+    f = make_increment(2)
+    print(f(3))
+
+    # document
+    print(my_function.__doc__)
 
 
 
