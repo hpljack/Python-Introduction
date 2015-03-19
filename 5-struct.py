@@ -29,3 +29,9 @@ if __name__ == '__main__':
     print(ls)
     ls.reverse()
     print(ls)
+
+    stack = [3,4,5]
+    stack.append(6)
+    stack.append(7)
+    stack.append(8)
+    print(stack.pop())
