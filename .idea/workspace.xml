@@ -23,33 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="6-module.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/6-module.py">
+      <file leaf-file-name="FileTest.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FileTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="399">
+            <state line="40" column="0" selection-start="1052" selection-end="1052" vertical-scroll-proportion="0.86644953" vertical-offset="228" max-vertical-offset="950">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="clientTest.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/clientTest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="4" selection-start="196" selection-end="196" vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="855">
-              <folding>
-                <element signature="e#49#63#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SrvTest.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SrvTest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="27" selection-start="1440" selection-end="1440" vertical-scroll-proportion="1.0947503" vertical-offset="0" max-vertical-offset="1159">
-              <folding>
-                <element signature="e#68#81#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -73,6 +51,7 @@
         <option value="$PROJECT_DIR$/6-module.py" />
         <option value="$PROJECT_DIR$/clientTest.py" />
         <option value="$PROJECT_DIR$/SrvTest.py" />
+        <option value="$PROJECT_DIR$/FileTest.py" />
       </list>
     </option>
   </component>
@@ -80,7 +59,7 @@
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="height" value="1014" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -140,25 +119,12 @@
     <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="false" />
   </component>
-  <component name="RunManager" selected="Python.SrvTest">
-    <configuration default="false" name="5-struct" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python-Introduction" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5-struct.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings />
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.FileTest">
     <configuration default="false" name="6-module" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -228,6 +194,26 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clientTest.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="FileTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python-Introduction" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FileTest.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
@@ -353,19 +339,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.5-struct" />
-      <item index="1" class="java.lang.String" itemvalue="Python.6-module" />
-      <item index="2" class="java.lang.String" itemvalue="Python.CropImg" />
-      <item index="3" class="java.lang.String" itemvalue="Python.SrvTest" />
-      <item index="4" class="java.lang.String" itemvalue="Python.clientTest" />
+      <item index="0" class="java.lang.String" itemvalue="Python.6-module" />
+      <item index="1" class="java.lang.String" itemvalue="Python.CropImg" />
+      <item index="2" class="java.lang.String" itemvalue="Python.SrvTest" />
+      <item index="3" class="java.lang.String" itemvalue="Python.clientTest" />
+      <item index="4" class="java.lang.String" itemvalue="Python.FileTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.SrvTest" />
-        <item index="1" class="java.lang.String" itemvalue="Python.clientTest" />
-        <item index="2" class="java.lang.String" itemvalue="Python.CropImg" />
-        <item index="3" class="java.lang.String" itemvalue="Python.6-module" />
-        <item index="4" class="java.lang.String" itemvalue="Python.5-struct" />
+        <item index="0" class="java.lang.String" itemvalue="Python.FileTest" />
+        <item index="1" class="java.lang.String" itemvalue="Python.SrvTest" />
+        <item index="2" class="java.lang.String" itemvalue="Python.clientTest" />
+        <item index="3" class="java.lang.String" itemvalue="Python.CropImg" />
+        <item index="4" class="java.lang.String" itemvalue="Python.6-module" />
       </list>
     </recent_temporary>
   </component>
@@ -379,7 +365,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1014" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -387,10 +373,10 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24960506" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3990981" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.13024758" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27733934" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -415,32 +401,46 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="10" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/6-module.py">
+    <entry file="file://$PROJECT_DIR$/FileTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="399">
+        <state line="23" column="0" selection-start="639" selection-end="639" vertical-scroll-proportion="0.0" vertical-offset="437" max-vertical-offset="684">
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/6-module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="399" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/clientTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="18" selection-start="349" selection-end="349" vertical-scroll-proportion="0.0" vertical-offset="399" max-vertical-offset="855">
-          <folding>
-            <element signature="e#49#63#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="15" column="4" selection-start="196" selection-end="196" vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="855" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SrvTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="17" selection-start="525" selection-end="525" vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="1159">
-          <folding>
-            <element signature="e#68#81#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="45" column="27" selection-start="1440" selection-end="1440" vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="1159" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="399" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clientTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="18" selection-start="349" selection-end="349" vertical-scroll-proportion="0.0" vertical-offset="399" max-vertical-offset="855" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SrvTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="17" selection-start="525" selection-end="525" vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="1159" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2-caculate.py">
@@ -460,9 +460,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/6-module.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0" vertical-offset="266" max-vertical-offset="380">
-          <folding />
-        </state>
+        <state line="14" column="0" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0" vertical-offset="266" max-vertical-offset="380" />
       </provider>
     </entry>
     <entry file="file://D:/wuyou/src/tools/页游工具/CropImg.py">
@@ -497,9 +495,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/6-module.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0" vertical-offset="266" max-vertical-offset="380">
-          <folding />
-        </state>
+        <state line="14" column="0" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0" vertical-offset="266" max-vertical-offset="380" />
       </provider>
     </entry>
     <entry file="file://D:/wuyou/src/tools/页游工具/CropImg.py">
@@ -534,9 +530,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/6-module.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="208" selection-end="208" vertical-scroll-proportion="0.0" vertical-offset="228" max-vertical-offset="380">
-          <folding />
-        </state>
+        <state line="12" column="0" selection-start="208" selection-end="208" vertical-scroll-proportion="0.0" vertical-offset="228" max-vertical-offset="380" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fibo.py">
@@ -609,11 +603,6 @@
         <state line="9" column="37" selection-start="220" selection-end="220" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285" />
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm30/system/python_stubs/-1442825926/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4032" column="8" selection-start="135904" selection-end="135904" vertical-scroll-proportion="0.33274648" vertical-offset="76419" max-vertical-offset="107635" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fibo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="0" selection-start="258" selection-end="258" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="437" />
@@ -639,28 +628,46 @@
         <state line="57" column="0" selection-start="1151" selection-end="1151" vertical-scroll-proportion="0.5383721" vertical-offset="620" max-vertical-offset="1501" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/6-module.py">
+    <entry file="file://$PROJECT_DIR$/SrvTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="399">
-          <folding />
-        </state>
+        <state line="45" column="27" selection-start="1440" selection-end="1440" vertical-scroll-proportion="0.88666666" vertical-offset="57" max-vertical-offset="1159" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/clientTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="4" selection-start="196" selection-end="196" vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="855">
-          <folding>
-            <element signature="e#49#63#0" expanded="true" />
-          </folding>
+        <state line="15" column="4" selection-start="196" selection-end="196" vertical-scroll-proportion="0.25333333" vertical-offset="0" max-vertical-offset="900" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="211" selection-end="211" vertical-scroll-proportion="0.31666666" vertical-offset="0" max-vertical-offset="900" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm30/system/python_stubs/-1442825926/_io.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1349" column="8" selection-start="47843" selection-end="47843" vertical-scroll-proportion="0.33333334" vertical-offset="25331" max-vertical-offset="28291">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SrvTest.py">
+    <entry file="file://$USER_HOME$/.PyCharm30/system/python_stubs/-1442825926/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="27" selection-start="1440" selection-end="1440" vertical-scroll-proportion="1.0947503" vertical-offset="0" max-vertical-offset="1159">
-          <folding>
-            <element signature="e#68#81#0" expanded="true" />
-          </folding>
+        <state line="4852" column="8" selection-start="162840" selection-end="162840" vertical-scroll-proportion="0.33255813" vertical-offset="91902" max-vertical-offset="107635">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="9" selection-start="1048" selection-end="1048" vertical-scroll-proportion="0.5118577" vertical-offset="292" max-vertical-offset="798">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FileTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="0" selection-start="1052" selection-end="1052" vertical-scroll-proportion="0.86644953" vertical-offset="228" max-vertical-offset="950">
+          <folding />
         </state>
       </provider>
     </entry>
