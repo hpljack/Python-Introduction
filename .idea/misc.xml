@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.4.2 (/Library/Frameworks/Python.framework/Versions/3.4/bin/python3.4)" project-jdk-type="Python SDK" />
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -7,3 +8,8 @@
     </option>
   </component>
 </project>
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.4.1 (C:/Python34/python.exe)" project-jdk-type="Python SDK" />
+</project>
+
+>>>>>>> 5aed7e4c938e2a71fba2c3ded4fa998875933a57
