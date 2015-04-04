@@ -15,3 +15,12 @@ def fib2(n):
         a,b = b, a + b
     return result
 
+def maxtwo(x,y,z):
+    if(x > y) and (x > z):
+        if y > z:
+            return x, y
+        else:
+            return x,z
+    else:
+        return y, z
+
